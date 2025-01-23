@@ -1,2 +1,3 @@
 # Crush-proposal
-##**By - Shivank Garg**
+
+**By - Shivank Garg**
